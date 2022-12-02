@@ -3,7 +3,8 @@
 #### Help for layout and coding differents intresting things  
   
 ## 01-##  -  buttons  
-[01-01_liquid-btn](https://ivakos.github.io/library/library/01-buttons/01-01_liquid-btn/)  
+[01]: https://ivakos.github.io/library/library/
+[01-01_liquid-btn]([01] /01-buttons/01-01_liquid-btn/)  
   ![](library/images/01-01.JPG)  
 
 
